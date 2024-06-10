@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Saathwik varmaa</h1>
+<h1 align="center">Hi 👋, I'm Saathwik varmaa Marri</h1>
 <h3 align="center">A passionate frontend and software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msvarmaa1&label=Profile%20views&color=0e75b6&style=flat" alt="msvarmaa1" /> </p>
 
 - 🔭 I’m currently working on **Front-End and Figma Designing**
+
+- 🌱 I’m currently learning **Machine learning and Designing**
+
+- 💬 Ask me about **ML,Front-end,Dl**
+
+- 📫 How to reach me **m.s.varmaa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
