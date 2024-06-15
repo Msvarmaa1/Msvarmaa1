@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Designing**
 
-- 💬 Ask me about **ML,Front-end,Dl**
+- 💬 Ask me about **ML,Front-end,Dl,DSA**
 
 - 📫 How to reach me **m.s.varmaa1@gmail.com**
 
