@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msvarmaa1&label=Profile%20views&color=0e75b6&style=flat" alt="msvarmaa1" /> </p>
 
-- 🔭 I’m currently working on **Figma Designing and Machine Learning**
+- 🔭 I’m currently working on **Moving object detection and Machine Learning**
 
 - 🌱 I’m currently learning **Machine learning and Designing**
 
